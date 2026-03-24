@@ -1,4 +1,4 @@
-# 🛡 **SOC & Threat Monitoring Lab**
+# **SOC & Threat Monitoring Lab**
 
 ---
 
